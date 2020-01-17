@@ -1,1 +1,2 @@
-# jenkins2
+# MavenTestProject
+This a test project for maven.
